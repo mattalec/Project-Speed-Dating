@@ -1,2 +1,2 @@
 # Project-Speed-Dating
-A brief venture into the speed dating dataset to see where true love lies
+Project completed whilst at the Jedha Datascience bootcamp, showing datavisualisaton and an elementary investegatory process into Kaggles Speed Dating Dataset.<br>
